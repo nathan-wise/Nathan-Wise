@@ -1,6 +1,6 @@
 ### :wave: Hey, I'm Nathan!
 
 - :books: I am currently working as an SRE learning to design infrastructure through code 
-- :space_invader: In my free time I have been tormenting friends through mods and creating new systems for Twitch
-- :grin: If you want to work on something together please do not hesitate to reach out
+- :space_invader: In my free time I have been creating new systems for Twitch and inventing new ways for chat to interact with the streamer
+- :grin: If you want to work on something together hit me up, I am always excited to work on something new
 - :email: Feel free to add me on [LinkedIn](https://www.linkedin.com/in/nathan-wise94/)
